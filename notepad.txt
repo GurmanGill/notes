@@ -1,0 +1,4 @@
+Ubuntu Certs
+    - Find out how the validation of these certificates is done, how does it work
+
+    
